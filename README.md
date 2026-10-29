@@ -1,41 +1,51 @@
-# Hi, I'm panditanshul6266 👋
+# Hi, I'm Anshul Dixit 👋
 
-### Full-Stack MERN Developer
+### SQL Analytics & Full-Stack Web Development
 
-I build secure, responsive, and user-friendly web applications with modern JavaScript technologies. I enjoy turning real-world ideas into complete products—from clean React interfaces to robust REST APIs and MongoDB databases.
+I'm a B.Tech student in Electronics and Communication Engineering at MANIT Bhopal. I build web applications with React and Node.js, and use SQL to explore data, define business metrics, and create reproducible analytics case studies.
 
-## 🛠️ Tech Stack
+## Featured Projects
 
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-Frontend-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-Backend-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-REST_APIs-000000?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-Database-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/Git-Version_Control-F05032?style=flat-square&logo=git&logoColor=white)
+### [HCP Commercial Analytics](https://github.com/panditanshul6266/hcp-commercial-analytics)
+A SQL case study for physician segmentation and outreach prioritization across **240 synthetic HCPs**, **1,440 monthly sales records**, and three relational datasets.
 
-## 🚀 Featured Projects
+- Data quality checks and CTE-based analysis across equal pre/post periods.
+- HCP segmentation, competitor-share metrics, outreach funnels, and transparent rule-based prioritization.
+- HTML dashboard, CSV report, and documented optional Power BI setup.
 
-### [NoteNest — MERN Notes Management App](https://github.com/panditanshul6266/notenest-mern-app)
-A full-stack notes application with JWT authentication, protected routes, search, tags, pinning, archive, trash/restore, colors, and a responsive React interface.
+**Core tools:** SQL, SQLite, HTML/CSS  
+*Uses fictional data; results do not establish real-world campaign effectiveness or ROI.*
 
-**Stack:** React, React Router, Axios, Node.js, Express, MongoDB, Mongoose, JWT, bcryptjs
+### [NoteNest](https://github.com/panditanshul6266/notenest-mern-app)
+A MERN notes application with JWT authentication, protected routes, search, tag filtering, pinning, archiving, and recoverable trash.
 
-### [College Registration App](https://github.com/panditanshul6266/college-registration-app)
-A role-based MERN application where students browse and register for courses while administrators manage the course catalog and enrollments.
+**Stack:** React, Node.js, Express, MongoDB, Mongoose, JWT, Axios
 
-**Stack:** React, Vite, Axios, Node.js, Express, MongoDB, Mongoose, JWT, bcryptjs
+### [Recall AI - Flashcard & Quiz Generator](https://github.com/panditanshul6266/recall-ai-flashcard-quiz)
+A browser-based study tool that turns pasted notes into flashcards and difficulty-based quizzes, with instant feedback and scoring. Notes are processed locally without external AI APIs.
 
-## 🌱 What I'm Focused On
+**Stack:** React, TypeScript, Vite  
+[Try the live app](https://recall-ai-study.panditanshul6266.chatgpt.site)
 
-- Building production-ready full-stack applications
-- Writing secure APIs and clean, maintainable code
-- Improving UI responsiveness and user experience
-- Learning deployment, testing, and scalable architecture
+## Skills
 
-## 🤝 Let's Connect
+| Area | Technologies and concepts |
+| --- | --- |
+| Programming | C, C++, JavaScript, TypeScript, SQL |
+| Data analysis | Joins, CTEs, subqueries, aggregations, data quality checks, segmentation, pre/post analysis |
+| Frontend | React, HTML, CSS, Tailwind CSS, Vite |
+| Backend | Node.js, Express, REST APIs, JWT |
+| Databases | SQLite, MySQL, MongoDB, Mongoose |
+| Tools | Git, GitHub, Postman, VS Code |
 
-I'm open to collaborating on JavaScript, React, Node.js, and MERN-stack projects.
+## Current Focus
 
----
+- SQL analysis that connects business questions to clearly defined metrics.
+- Full-stack applications with authentication and useful workflows.
+- Data structures, algorithms, and clear technical explanations.
 
-⭐ Explore my repositories below and feel free to contribute or share feedback.
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/anshul-dixit-2275a7372/) · [LeetCode](https://leetcode.com/u/Panditanshul6266/) · [CodeChef](https://www.codechef.com/users/genin)
+
+Explore my repositories for source code, setup instructions, and project documentation.
